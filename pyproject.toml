@@ -1,0 +1,19 @@
+[project]
+name = "attentionmech"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "arviz>=0.23.4",
+    "bambi>=0.17.2",
+    "ipykernel>=7.2.0",
+    "jax>=0.9.2",
+    "matplotlib>=3.10.8",
+    "numpy>=2.4.4",
+    "numpyro>=0.20.1",
+    "pandas>=3.0.2",
+    "pymc>=5.28.3",
+    "scipy>=1.17.1",
+    "torch>=2.11.0",
+]
